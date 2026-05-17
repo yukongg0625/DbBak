@@ -1,0 +1,25 @@
+{
+  "backupTime": "2026-05-17T16:18:04.752Z",
+  "envId": "cloud1-d6gmlx4ss77f8e361",
+  "collections": {
+    "categories": 17,
+    "subcategories": 22,
+    "works": 7,
+    "featured": 2,
+    "contactInfo": 1
+  },
+  "works": {
+    "total": 7,
+    "byCategory": {
+      "时尚美妆": 3,
+      "汉服造型": 1,
+      "旗袍造型": 2,
+      "服装租赁": 1
+    }
+  },
+  "images": {
+    "total": 32,
+    "success": 32,
+    "failed": 0
+  }
+}

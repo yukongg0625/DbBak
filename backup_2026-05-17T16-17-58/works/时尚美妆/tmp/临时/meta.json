@@ -1,0 +1,16 @@
+{
+  "_id": "0667d90f6a0867380077b0dd1dc1011e",
+  "order": 1,
+  "isFeatured": false,
+  "enabled": true,
+  "_openid": "oVa-r7fs5JMPsNfOGrGniUUTCB0M",
+  "categoryId": "611e990a6a0078c201c4e9b12e83457a",
+  "subcategoryName": "tmp",
+  "title": "临时",
+  "usageType": "临时",
+  "description": "临时测试",
+  "categoryName": "时尚美妆",
+  "subcategoryId": "3e45192f6a05ec0a0031d4f523b69f3d",
+  "coverImage": "cloud://cloud1-d6gmlx4ss77f8e361.636c-cloud1-d6gmlx4ss77f8e361-1426225401/works/17789355652563dga8tqc0.jpg",
+  "hidden": true
+}
