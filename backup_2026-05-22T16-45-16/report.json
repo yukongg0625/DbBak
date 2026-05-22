@@ -1,0 +1,22 @@
+{
+  "backupTime": "2026-05-22T16:45:18.358Z",
+  "envId": "cloud1-d6gmlx4ss77f8e361",
+  "collections": {
+    "categories": 7,
+    "subcategories": 46,
+    "works": 1,
+    "featured": 1,
+    "contactInfo": 1
+  },
+  "works": {
+    "total": 1,
+    "byCategory": {
+      "舞剧话剧": 1
+    }
+  },
+  "images": {
+    "total": 10,
+    "success": 5,
+    "failed": 5
+  }
+}
