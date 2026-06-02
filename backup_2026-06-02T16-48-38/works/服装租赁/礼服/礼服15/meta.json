@@ -1,0 +1,16 @@
+{
+  "_id": "96e1c8146a1f067f00420ec370551333",
+  "categoryName": "服装租赁",
+  "subcategoryName": "礼服",
+  "description": "",
+  "order": 15,
+  "subcategoryId": "2cd873a46a0f1c2f00078f00034125ce",
+  "title": "礼服15",
+  "coverImage": "cloud://cloud1-d6gmlx4ss77f8e361.636c-cloud1-d6gmlx4ss77f8e361-1426225401/works/17804181622357pir74r4h.jpg",
+  "usageType": "",
+  "isFeatured": false,
+  "hidden": false,
+  "enabled": true,
+  "_openid": "oVa-r7VFXp1KsulRcUGhOKb6m9K0",
+  "categoryId": "e35392d06a008e7f01cb410f77d6c0c2"
+}

@@ -1,0 +1,25 @@
+{
+  "backupTime": "2026-06-02T16:49:10.872Z",
+  "envId": "cloud1-d6gmlx4ss77f8e361",
+  "collections": {
+    "categories": 7,
+    "subcategories": 48,
+    "works": 34,
+    "featured": 9,
+    "contactInfo": 1
+  },
+  "works": {
+    "total": 34,
+    "byCategory": {
+      "舞剧话剧": 2,
+      "各类美妆造型": 7,
+      "服装租赁": 22,
+      "整体造型（含服装）": 3
+    }
+  },
+  "images": {
+    "total": 157,
+    "success": 157,
+    "failed": 0
+  }
+}
